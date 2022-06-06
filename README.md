@@ -1,4 +1,7 @@
-# orm-ecommerce
+# Object-Relational Mapping (ORM) E-Commerce Back End 
+
+<h2>Description</h2>
+Utilizing a working Express.js API and configuring it to use Sequelize to interact with a MySQL database in order to build the back end for an e-commerce site. 
 
 <h2>User Story</h2>
 AS A manager at an internet retail company
@@ -17,3 +20,5 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
+
+<h2> Link to Walkthrough Video </h2>
