@@ -24,4 +24,4 @@ THEN I am able to successfully create, update, and delete data in my database<br
 <h2> Link to Walkthrough Video </h2>
 Link to Video 1 - Create Schema, Seed Database, and Start Application server: https://drive.google.com/file/d/1y81XzP3ikR0Fl63dTQVopNRSqkXNb4tt/view
 <br><br>
-Link to Video 2 - Insominia Routes: https://drive.google.com/file/d/1K-aYGVcQZ_6jSurkFrDkjc_nOcuZ3mhP/view
+Link to Video 2 - Insomnia Routes: https://drive.google.com/file/d/1K-aYGVcQZ_6jSurkFrDkjc_nOcuZ3mhP/view
